@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jsbolinas. Current Employer: Magic Appliance, Dagupan City, Pangasinan
+- 👋 Hi, I’m @jsbolinas. Currently employed *huhu*
 - 👀 I’m interested in Web Programming especially PHP
 - 🌱 I’m currently learning how be a human 101
 - 💞️ I’m looking to collaborate on creating web pages of companies.
